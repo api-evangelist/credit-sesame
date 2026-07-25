@@ -1,8 +1,27 @@
 aid: credit-sesame
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/credit-sesame.png
 name: Credit Sesame
-description: Credit Sesame is a company surfaced as a portfolio company of menlo-ventures and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Credit Sesame is a consumer financial health platform that provides free daily
+  credit-score monitoring, credit reports, and personalized recommendations for
+  credit cards, loans, and insurance based on a member's approval likelihood.
+  Members can build credit through everyday debit purchases and upgrade to the
+  Sesame+ premium tier for three-bureau credit reports, advanced credit tools,
+  and identity-theft protection. Credit Sesame operates consumer web and mobile
+  applications and, as of this profile, does not publish a public developer API;
+  it is tracked in the API Evangelist network as a company profile backed by
+  Menlo Ventures.
 url: https://raw.githubusercontent.com/api-evangelist/credit-sesame/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,9 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Consumer Finance
+- Credit Scores
+- Credit Monitoring
+- Personal Finance
+- FinTech
+- Identity Protection
+- Financial Services
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +49,29 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://creditsesame.com
+  url: https://www.creditsesame.com
+- type: SignUp
+  url: https://secured.creditsesame.com/signup?lp=home
+- type: Login
+  url: https://secured.creditsesame.com/login
+- type: Support
+  url: https://www.creditsesame.com/help/
+- type: Blog
+  url: https://www.creditsesame.com/blog/
+- type: Pricing
+  url: https://www.creditsesame.com/sesame-plus-3-bureau-credit-reports/
+- type: TermsOfService
+  url: https://www.creditsesame.com/legal/terms-of-use/
+- type: PrivacyPolicy
+  url: https://www.creditsesame.com/legal/privacy-policy/
+- type: GitHubOrganization
+  url: https://github.com/creditsesame
+- type: DomainSecurity
+  url: security/credit-sesame-domain-security.yml
+- type: LLMsTxt
+  url: llms/credit-sesame-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

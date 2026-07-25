@@ -1,0 +1,20 @@
+# Credit Sesame
+
+> Credit Sesame is a consumer financial health platform offering free daily credit-score monitoring, credit reports, and personalized recommendations for credit cards, loans, and insurance, plus a Sesame+ premium tier with three-bureau reports and identity-theft protection. Credit Sesame is a company profile in the API Evangelist network; it operates consumer web and mobile products and does not publish a public developer API at this time.
+
+## Company
+- [Credit Sesame](https://www.creditsesame.com): Consumer credit and financial health platform.
+- [Sesame Grade](https://www.creditsesame.com/sesame-grade/): Credit health grading.
+- [Sesame+](https://www.creditsesame.com/sesame-plus-3-bureau-credit-reports/): Premium three-bureau reports and identity-theft protection.
+
+## Account
+- [Sign up](https://secured.creditsesame.com/signup?lp=home): Create a free account.
+- [Login](https://secured.creditsesame.com/login): Sign in.
+
+## Docs
+- [Help Center](https://www.creditsesame.com/help/): Support and FAQs.
+- [Blog (Sesame Speaks)](https://www.creditsesame.com/blog/): Company and credit-education blog.
+
+## Legal
+- [Terms of Use](https://www.creditsesame.com/legal/terms-of-use/)
+- [Privacy Policy](https://www.creditsesame.com/legal/privacy-policy/)
