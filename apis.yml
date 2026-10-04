@@ -51,7 +51,7 @@ tags:
 - Personal Finance
 - Fintech
 - Identity Protection
-- Financial-Services
+- Financial Services
 tags_raw:
 - Company
 - Consumer Finance
@@ -61,6 +61,7 @@ tags_raw:
 - FinTech
 - Identity Protection
 - Financial Services
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
